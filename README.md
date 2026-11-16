@@ -32,3 +32,16 @@ This project demonstrates the use of IoT technology for smart queue management.
 Author
 
 B. Manasa
+Wokwi Simulation
+
+The project is simulated using the ESP32 microcontroller in Wokwi.
+
+Live Simulation: https://wokwi.com/projects/480770935043100673
+
+Hardware Components
+
+- ESP32
+- Ultrasonic Sensors
+- 16x2 I2C LCD
+- Green, Yellow and Red LEDs
+- Buzzer
